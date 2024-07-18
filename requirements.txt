@@ -1,7 +1,7 @@
-torch 
+torch
 numpy 
-transformers 
-datasets 
-tiktoken 
-wandb 
+transformers
+datasets
+tiktoken
+wandb
 tqdm
